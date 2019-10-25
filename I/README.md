@@ -16,3 +16,7 @@ objectifs de sécurité :
 - Dechiffrement : rendre compréhensible, a l'aide de la clé de chiffrement, un doc chiffré
 - Decryptage : rendre compréhensible, sans la clé de déchiffrement, un doc chiffré 
 - Cryptage : n'a pas de sens
+
+## references 
+
+ANSII 
